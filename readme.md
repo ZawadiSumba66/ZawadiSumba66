@@ -1,14 +1,13 @@
 ### Hi there, I am Rose👋
 
-
 - 🌱 I’m currently learning at Microverse as a Software Developer
-- 💬 Ask me about the terminal and a few candy crashes
+- 💬 Ask me about the terminal and a few candy crushes
 - ⚡ Fun fact: What did the colon say to the semicolon, why are you winking at me
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and collaborating remotely as a software Developer
-- Open for project collaboration and internship opportunities. 
+- 🤔 &nbsp; Exploring new technologies and collaborating remotely as a Software Developer
+- Open for project collaboration and remote job opportunities. 
 - 👯&nbsp; A volunteer at [Kevin Kararwa Leukemia Trust](https://www.kkltrust.org/).
 
 <h3>🛠 My Stack Collection</h3>

@@ -18,4 +18,4 @@
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/rose-sumba-9b36401b5/) 👨🏻‍💻
- - Mail me at (mailto:rosesumba98@gmail.com) 💌
+ - Mail me at rosesumba98@gmail.com 💌

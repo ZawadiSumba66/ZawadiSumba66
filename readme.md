@@ -1,4 +1,4 @@
-### Hi there , My name is Rose👋
+### Hi there, I am Rose👋
 
 
 - 🌱 I’m currently learning at Microverse as a Software Developer
@@ -18,4 +18,4 @@
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/rose-sumba-9b36401b5/) 👨🏻‍💻
- - Mail me at [Email](mailto:rosesumba98@gmail.com) 💌
+ - Mail me at (mailto:rosesumba98@gmail.com) 💌

@@ -9,7 +9,7 @@
 
 - &nbsp; HTML | CSS | Bootstrap | JavaScript | ReactJS | Ruby | Ruby on Rails
 
-### 📫🤝🏻 Connect with Me
+###  Connect with Me
 
  -  [LinkedIn](https://www.linkedin.com/in/rose-sumba-9b36401b5/) 
  - Mail me at rosesumba98@gmail.com 

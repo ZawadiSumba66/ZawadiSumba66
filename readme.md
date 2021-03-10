@@ -5,7 +5,7 @@
 - &nbsp; Exploring new technologies and collaborating remotely as a Software Developer
 - Open for project collaboration and remote job opportunities. 
 
-<h3>I am learning the following stack collection at Microverse </h3>
+<h3>My software development Stack </h3>
 
 - &nbsp; HTML | CSS | Bootstrap | JavaScript | ReactJS | Ruby | Ruby on Rails
 

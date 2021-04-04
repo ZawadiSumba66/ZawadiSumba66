@@ -2,10 +2,10 @@
 
 My name is Rose Sumba and I am from Nairobi, Kenya. I am currently exploring new technologies and collaborating remotely as a Software Developer. I am open for project collaboration and remote job opportunities. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawadiSumba66)](https://github.com/anuraghazra/github-readme-stats)
-[![Sumba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawadiSumba66)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawadiSumba66&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sumba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawadiSumba66&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Tools and Technologies</h3>zz
+<h3>Tools and Technologies</h3>
 
 HTML5 | CSS3 | Bootsrap | JavaScript | Ruby | Ruby on Rails | Databases(PostgreSQL,MYSQL)
 

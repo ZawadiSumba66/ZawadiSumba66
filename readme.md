@@ -5,5 +5,17 @@ My name is Rose Sumba and I am from Nairobi, Kenya. I am currently exploring new
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawadiSumba66)](https://github.com/anuraghazra/github-readme-stats)
 [![Sumba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawadiSumba66)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>My software development Stack </h3>
+<h3>Tools and Technologies</h3>
 - &nbsp; HTML | CSS | Bootstrap | JavaScript | ReactJS | Ruby | Ruby on Rails
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/zawadirose1
+[2]: https://www.linkedin.com/in/rosesumba/

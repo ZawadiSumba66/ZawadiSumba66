@@ -8,7 +8,7 @@ My name is Rose Sumba and I am from Nairobi, Kenya. I am currently exploring new
 <h3>Tools and Technologies</h3>
 - &nbsp; HTML | CSS | Bootstrap | JavaScript | ReactJS | Ruby | Ruby on Rails
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 

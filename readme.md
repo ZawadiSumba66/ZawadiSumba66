@@ -1,6 +1,6 @@
 ### Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Rose Sumba and I am from Nairobi, Kenya. I am currently exploring new technologies and collaborating remotely as a Software Developer. I am open for project collaboration and remote job opportunities. 
+I am currently exploring new technologies and collaborating remotely as a Software Developer. I am open for project collaboration and remote job opportunities. 
 
 [![Sumba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawadiSumba66&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawadiSumba66&hide=css&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

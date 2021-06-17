@@ -1,7 +1,9 @@
 ### Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a student collaborating remotely as a Software Developer at Microverse.
-I also review junior students projects to give the necessary guidance on how to improve on their projects.
+###  ABOUT ME 👩🏽
+- 🌍 I am a student collaborating remotely as a Software Developer.
+- 💼 Currently working as a project reviewer at Microverse.
+- 🔭 Looking for new remote job opportunities.
 
 [![Sumba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawadiSumba66&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawadiSumba66&hide=css&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,7 +25,7 @@ I also review junior students projects to give the necessary guidance on how to 
 
 #### Database
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/ZawadiSumba66)
-[![PostgeSQL][(https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/ZawadiSumba66)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/ZawadiSumba66)
 
 ## Let's Connect!!
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].

@@ -23,7 +23,7 @@ I also review junior students projects to give the necessary guidance on how to 
 
 #### Database
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/ZawadiSumba66)
-[![POSTGRESS][(https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/ZawadiSumba66)
+[![PostgeSQL][(https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/ZawadiSumba66)
 
 ## Let's Connect!!
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].

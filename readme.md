@@ -1,5 +1,5 @@
 ### Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-##### I am Rose Sumba.
+#### I am Rose Sumba.
 
 ###  ABOUT ME 👩🏽
 - 🌍 I am a student collaborating remotely as a Software Developer.

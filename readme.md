@@ -6,7 +6,7 @@
 - 💼 Currently working as a project reviewer at Microverse.
 - 🔭 Looking for new remote job opportunities.
 - 📑 Checkout some of the articles I have written on [Medium](https://rosesumba.medium.com/).
-- 
+
 [![Sumba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawadiSumba66&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawadiSumba66&hide=css&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

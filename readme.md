@@ -5,7 +5,7 @@
 - 🌍 I am a student collaborating remotely as a Software Developer.
 - 💼 Currently working as a project reviewer at Microverse.
 - 🔭 Looking for new remote job opportunities.
-
+- 📑 Checkout some of the articles I have written on [https://medium.com/p/93a5e44edbf4/edit](Medium).
 [![Sumba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawadiSumba66&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawadiSumba66&hide=css&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

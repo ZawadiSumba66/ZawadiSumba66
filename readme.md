@@ -3,7 +3,7 @@
 
 ###  ABOUT ME 👩🏽
 - 🌍 Working on an internship at HNGi8 remotely as a Sotware Developer.
-- 💼 Currently working as a project reviewer at Microverse.
+- 💼 Currently a project reviewer at Microverse.
 - 🔭 Looking for new remote job opportunities.
 - 📑 Checkout some of the articles I have written on [Medium](https://rosesumba.medium.com/).
 

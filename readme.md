@@ -2,7 +2,7 @@
 #### I am Rose Sumba.
 
 ###  ABOUT ME 👩🏽
-- 🌍 Working on an internship at HNGi8 remotely as a Sotware Developer.
+- 🌍 Working on an internship at [HNGi8](https://internship.zuri.team/) remotely as a Sotware Developer.
 - 💼 Currently a project reviewer at Microverse.
 - 🔭 Looking for new remote job opportunities.
 - 📑 Checkout some of the articles I have written on [Medium](https://rosesumba.medium.com/).

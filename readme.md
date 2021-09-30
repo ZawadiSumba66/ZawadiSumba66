@@ -2,9 +2,7 @@
 #### I am Rose Sumba.
 
 ###  ABOUT ME 👩🏽
-- 🌍 Working on project collaborations remotely.
-- 💼 Currently a project reviewer at Microverse.
-- 🔭 Looking for new remote job opportunities.
+- 💼 Frontend Developer at BlackPencil.io.
 - 📑 Checkout some of the articles I have written on   [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rosesumba.medium.com/)
 
 [![Sumba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawadiSumba66&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

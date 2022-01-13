@@ -15,7 +15,7 @@
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ZawadiSumba66)
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/ZawadiSumba66)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/ZawadiSumba66)
-[![TypeScript](https://img.shields.io/badge/typescript-%23CC342D.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ZawadiSumba66)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ZawadiSumba66)
 #### Frameworks & Database:
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/ZawadiSumba66)
 [![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)](https://github.com/ZawadiSumba66)

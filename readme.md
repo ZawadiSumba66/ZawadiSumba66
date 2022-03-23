@@ -2,8 +2,8 @@
 #### I am Rose Sumba.
 
 ###  ABOUT ME 👩🏽
-- 💼 Full-Stack Developer.
-- 📑 Checkout some of the articles I have written on   [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rosesumba.medium.com/)
+- 💼 Freelance Full-Stack Developer. I use technologies such as Ruby on Rails, React and Redux JavaScript and TypeScript to work on my personal projects.
+- 📑 I also write articles in my free time. You can check them out on [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rosesumba.medium.com/)
 
 [![Sumba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawadiSumba66&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZawadiSumba66&hide=css&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

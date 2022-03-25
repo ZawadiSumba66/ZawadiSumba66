@@ -2,7 +2,7 @@
 #### I am Rose Sumba.
 
 ###  ABOUT ME 👩🏽
-- 💼 Iam a Freelance Full-Stack Developer and I use technologies such as Ruby on Rails, React and Redux JavaScript and TypeScript to build my projects.
+- 💼 I am a Freelance Full-Stack Developer and I use technologies such as Ruby on Rails, React and Redux JavaScript and TypeScript to build my projects.
 - 📑 I also write articles in my free time. You can check them out on [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rosesumba.medium.com/)
 
 [![Sumba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZawadiSumba66&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
